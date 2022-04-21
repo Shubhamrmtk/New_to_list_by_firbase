@@ -1,0 +1,15 @@
+.head {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* position: relative; */
+}
+.para {
+  /* position: absolute; */
+  left: 352px;
+  bottom: -8px;
+}
+.head img {
+  height: 72px;
+}
